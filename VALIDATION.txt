@@ -1,0 +1,9 @@
+no_case_study_buttons: True
+no_gunter: True
+no_como_trabajo: True
+no_profile_summary_toggle: True
+courses_visible: True
+nex_name: True
+ragweed: True
+missing_local_refs: True
+no_embedded_binary_in_production: True
